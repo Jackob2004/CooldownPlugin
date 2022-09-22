@@ -1,0 +1,9 @@
+name: CooldownPlugin
+version: '${project.version}'
+main: me.shadow_warrior_.cooldownplugin.CooldownPlugin
+api-version: 1.16
+authors: [ shadow_warrior_ ]
+description: Cooldowns
+commands:
+  cool:
+    description: command with cooldown
